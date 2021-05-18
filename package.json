@@ -4,8 +4,7 @@
   "description": "Create SQL-queries using JavaScript functions",
   "main": "index.js",
   "scripts": {
-    "test": "standard && jest",
-    "fix": "standard --exclude --fix"
+    "test": "standard && jest"
   },
   "repository": {
     "type": "git",
