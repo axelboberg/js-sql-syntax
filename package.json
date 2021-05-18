@@ -23,11 +23,10 @@
   },
   "homepage": "https://github.com/axelboberg/js-sql-syntax#readme",
   "devDependencies": {
-    "jest": "^24.1.0"
-  },
-  "dependencies": {
+    "jest": "^24.9.0",
     "standard": "^16.0.3"
   },
+  "dependencies": {},
   "standard": {
     "ignore": [
       "test/*.js"
